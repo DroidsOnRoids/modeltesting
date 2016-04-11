@@ -1,0 +1,1 @@
+This is sample project for blog [post]( http://www.thedroidsonroids.com/blog/unit-tests-rules-annotations-resources/)
